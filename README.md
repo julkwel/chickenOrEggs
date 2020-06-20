@@ -2,6 +2,4 @@
 
 Who is first , chicken or eggs ?
 
-From this, chicken is first ...
-
-Cool
+**Code for fun !!!**
